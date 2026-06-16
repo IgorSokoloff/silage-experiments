@@ -31,18 +31,21 @@ This is the public code release accompanying the SILAGE paper:
 > I. Sokolov, L. Condat, P. Richtárik. *SILAGE: Memory-Efficient,
 > Full-Gradient-Free Nonconvex Optimization for Nested Finite Sums.*
 
-A preprint link will be added here once the paper is on arXiv: **arXiv: _coming
-soon_**. Section, equation, assumption, table, and figure numbers throughout this
-README refer to that paper.
+The preprint is available on arXiv: **[arXiv:2606.15832](https://arxiv.org/abs/2606.15832)**.
+Section, equation, assumption, table, and figure numbers throughout this README
+refer to that paper.
 
 If you find the methods or code useful for your research, please consider citing:
 
 ```bibtex
 @article{sokolov2026silage,
-  title   = {{SILAGE}: Memory-Efficient, Full-Gradient-Free Nonconvex Optimization for Nested Finite Sums},
-  author  = {Sokolov, Igor and Condat, Laurent and Richt{\'a}rik, Peter},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2026}
+  title         = {{SILAGE}: Memory-Efficient, Full-Gradient-Free Nonconvex Optimization for Nested Finite Sums},
+  author        = {Sokolov, Igor and Condat, Laurent and Richt{\'a}rik, Peter},
+  journal       = {arXiv preprint arXiv:2606.15832},
+  year          = {2026},
+  eprint        = {2606.15832},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG}
 }
 ```
 
